@@ -1,0 +1,18 @@
+.main-section-home .sub-home-section .home {
+  color: red;
+}
+.main-section-home .sub-home-section .home.margin {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.main-section-home .sub-home-section .home h2 {
+  margin-top: 10px;
+  text-align: center;
+}
+.main-section-home .sub-home-section .home span {
+  line-height: 30px;
+  text-align: center;
+}
+.main-section-home .sub-home-section.flex {
+  display: flex;
+}/*# sourceMappingURL=style.css.map */

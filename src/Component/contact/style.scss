@@ -1,0 +1,27 @@
+.main-section-contact{
+    .sub-contact-section{
+       
+        .contact{
+            color: white;
+            &.margin{
+                margin-top: 30px;
+                margin-left: 20px;
+    
+            }
+            h2{
+                margin-top: 10px;
+                text-align: center;
+            }
+            span{
+                line-height: 30px;
+                text-align: center;
+            }
+           
+        }
+        &.flex{
+            display: flex;
+        }
+       
+    }
+
+}

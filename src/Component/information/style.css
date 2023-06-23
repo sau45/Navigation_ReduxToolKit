@@ -1,0 +1,18 @@
+.main-section-information .sub-information-section .information {
+  color: yellow;
+}
+.main-section-information .sub-information-section .information.margin {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.main-section-information .sub-information-section .information h2 {
+  margin-top: 10px;
+  text-align: center;
+}
+.main-section-information .sub-information-section .information span {
+  line-height: 30px;
+  text-align: center;
+}
+.main-section-information .sub-information-section.flex {
+  display: flex;
+}/*# sourceMappingURL=style.css.map */

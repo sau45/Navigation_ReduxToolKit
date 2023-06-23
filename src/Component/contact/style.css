@@ -1,0 +1,18 @@
+.main-section-contact .sub-contact-section .contact {
+  color: white;
+}
+.main-section-contact .sub-contact-section .contact.margin {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.main-section-contact .sub-contact-section .contact h2 {
+  margin-top: 10px;
+  text-align: center;
+}
+.main-section-contact .sub-contact-section .contact span {
+  line-height: 30px;
+  text-align: center;
+}
+.main-section-contact .sub-contact-section.flex {
+  display: flex;
+}/*# sourceMappingURL=style.css.map */
